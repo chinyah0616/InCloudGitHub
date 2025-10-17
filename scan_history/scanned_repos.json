@@ -909,8 +909,358 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "openai/openai-python": {
+      "first_scan": "2025-10-17 03:21:26",
+      "last_scan": "2025-10-17 03:21:26",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "usGuri-Dufutti/usGuri_Dufutti-backend": {
+      "first_scan": "2025-10-17 03:21:26",
+      "last_scan": "2025-10-17 03:21:26",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Mikanwolfe/Maple": {
+      "first_scan": "2025-10-17 03:21:26",
+      "last_scan": "2025-10-17 03:21:26",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "mcpflow/localmind": {
+      "first_scan": "2025-10-17 03:21:27",
+      "last_scan": "2025-10-17 03:21:27",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Sasmitha6821/Kalix-Chatbot": {
+      "first_scan": "2025-10-17 03:21:27",
+      "last_scan": "2025-10-17 03:21:27",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "southriverai/srai-chat": {
+      "first_scan": "2025-10-17 03:21:27",
+      "last_scan": "2025-10-17 03:21:27",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "AammarTufail/DSAAMP_2025": {
+      "first_scan": "2025-10-17 03:21:28",
+      "last_scan": "2025-10-17 03:21:28",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "hychaochao/Chat-Models-Backdoor-Attacking": {
+      "first_scan": "2025-10-17 03:21:28",
+      "last_scan": "2025-10-17 03:21:28",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "jtanaka104/openai_api_bot": {
+      "first_scan": "2025-10-17 03:21:28",
+      "last_scan": "2025-10-17 03:21:28",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "sneezeparty/soupy": {
+      "first_scan": "2025-10-17 03:21:29",
+      "last_scan": "2025-10-17 03:21:29",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "BitCodeHub/YappyAI": {
+      "first_scan": "2025-10-17 03:21:29",
+      "last_scan": "2025-10-17 03:21:29",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "syedahirafatima/CloneChat.ai": {
+      "first_scan": "2025-10-17 03:21:29",
+      "last_scan": "2025-10-17 03:21:29",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "KaranShah1/HW_Manager-HW2": {
+      "first_scan": "2025-10-17 03:21:30",
+      "last_scan": "2025-10-17 03:21:30",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "TakanariShimbo/open-super-whisper-v2": {
+      "first_scan": "2025-10-17 03:21:30",
+      "last_scan": "2025-10-17 03:21:30",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "NNDSrinivas/mentor_app": {
+      "first_scan": "2025-10-17 03:21:30",
+      "last_scan": "2025-10-17 03:21:30",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "AlessioChen/traish": {
+      "first_scan": "2025-10-17 03:21:31",
+      "last_scan": "2025-10-17 03:21:31",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "mharish27/Hazard-Free-Navigation": {
+      "first_scan": "2025-10-17 03:21:31",
+      "last_scan": "2025-10-17 03:21:31",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "pj-13-shukla/serp-clustering-app": {
+      "first_scan": "2025-10-17 03:21:31",
+      "last_scan": "2025-10-17 03:21:31",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "sssmile2yong/linebot": {
+      "first_scan": "2025-10-17 03:21:32",
+      "last_scan": "2025-10-17 03:21:32",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "LachinFernando/speech_therapist": {
+      "first_scan": "2025-10-17 03:21:32",
+      "last_scan": "2025-10-17 03:21:32",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "HealthifyMe/coralogix-mcp": {
+      "first_scan": "2025-10-17 03:21:33",
+      "last_scan": "2025-10-17 03:21:33",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "BarryYin/AlphaTo": {
+      "first_scan": "2025-10-17 03:21:33",
+      "last_scan": "2025-10-17 03:21:33",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "surajshivkumar/aiba-rag": {
+      "first_scan": "2025-10-17 03:21:33",
+      "last_scan": "2025-10-17 03:21:33",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "cumbersomeamir/all_apis": {
+      "first_scan": "2025-10-17 03:21:34",
+      "last_scan": "2025-10-17 03:21:34",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "kmurray30/InterviewDictation": {
+      "first_scan": "2025-10-17 03:21:34",
+      "last_scan": "2025-10-17 03:21:34",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "HaotianZhai/EquivaFormulation": {
+      "first_scan": "2025-10-17 03:21:34",
+      "last_scan": "2025-10-17 03:21:34",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "BigDataIA-Fall2024-Team9/Assignment_1": {
+      "first_scan": "2025-10-17 03:21:35",
+      "last_scan": "2025-10-17 03:21:35",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "rsanmarting/phishinglab": {
+      "first_scan": "2025-10-17 03:21:35",
+      "last_scan": "2025-10-17 03:21:35",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Debasish7ripathy/Fedora_AI_Logging": {
+      "first_scan": "2025-10-17 03:21:35",
+      "last_scan": "2025-10-17 03:21:35",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "mrzeznic/AI_devs_3": {
+      "first_scan": "2025-10-17 03:21:36",
+      "last_scan": "2025-10-17 03:21:36",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "0x7o/chatgpt-telegram-bot": {
+      "first_scan": "2025-10-17 03:21:36",
+      "last_scan": "2025-10-17 03:21:36",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Ketan-K17/llama_cpp_experiments": {
+      "first_scan": "2025-10-17 03:21:36",
+      "last_scan": "2025-10-17 03:21:36",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "zwimpee/ea": {
+      "first_scan": "2025-10-17 03:21:37",
+      "last_scan": "2025-10-17 03:21:37",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "ThinkbrgAI/doctype": {
+      "first_scan": "2025-10-17 03:21:37",
+      "last_scan": "2025-10-17 03:21:37",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "shantanupatne/llm-robot": {
+      "first_scan": "2025-10-17 03:21:37",
+      "last_scan": "2025-10-17 03:21:37",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "thanhtw/PeerV6": {
+      "first_scan": "2025-10-17 03:21:38",
+      "last_scan": "2025-10-17 03:21:38",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "sreelakshmiarjun27/LLMCloudInfrastructureProject": {
+      "first_scan": "2025-10-17 03:21:38",
+      "last_scan": "2025-10-17 03:21:38",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "JapiKredi/crewAI-basics": {
+      "first_scan": "2025-10-17 03:21:38",
+      "last_scan": "2025-10-17 03:21:38",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "michalzagrodzki/compliance-tracker-mvp-api": {
+      "first_scan": "2025-10-17 03:21:39",
+      "last_scan": "2025-10-17 03:21:39",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "vespa-engine/sample-apps": {
+      "first_scan": "2025-10-17 03:21:39",
+      "last_scan": "2025-10-17 03:21:39",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Njanja2025/Baddy-Agent": {
+      "first_scan": "2025-10-17 03:21:39",
+      "last_scan": "2025-10-17 03:21:39",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "sindhu-satish/sachacks_vi": {
+      "first_scan": "2025-10-17 03:21:40",
+      "last_scan": "2025-10-17 03:21:40",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "NoamMichael/Comparing-Confidence-in-LLMs": {
+      "first_scan": "2025-10-17 03:21:40",
+      "last_scan": "2025-10-17 03:21:40",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "jwm4/llama-stack-odh": {
+      "first_scan": "2025-10-17 03:21:41",
+      "last_scan": "2025-10-17 03:21:41",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "HappyPathway/musical-rental-inventory-django": {
+      "first_scan": "2025-10-17 03:21:41",
+      "last_scan": "2025-10-17 03:21:41",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "srimanthds/cochlear3-qabot": {
+      "first_scan": "2025-10-17 03:21:41",
+      "last_scan": "2025-10-17 03:21:41",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "factly/gopie": {
+      "first_scan": "2025-10-17 03:21:42",
+      "last_scan": "2025-10-17 03:21:42",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "HGF-hgf/RAG": {
+      "first_scan": "2025-10-17 03:21:42",
+      "last_scan": "2025-10-17 03:21:42",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "phanideva/gen_ai_financial_report_generator": {
+      "first_scan": "2025-10-17 03:21:42",
+      "last_scan": "2025-10-17 03:21:42",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "SMOG-Devs/jargone": {
+      "first_scan": "2025-10-17 03:21:43",
+      "last_scan": "2025-10-17 03:21:43",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 130,
-  "last_updated": "2025-10-16 09:42:44"
+  "total_scanned": 180,
+  "last_updated": "2025-10-17 03:21:43"
 }
