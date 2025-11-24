@@ -2638,8 +2638,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "AshBalbz/Translide": {
+      "first_scan": "2025-11-24 03:38:26",
+      "last_scan": "2025-11-24 03:38:26",
+      "findings_count": 2,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 377,
-  "last_updated": "2025-11-23 03:48:47"
+  "total_scanned": 378,
+  "last_updated": "2025-11-24 03:38:26"
 }
